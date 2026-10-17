@@ -1,1 +1,1 @@
-api = 'abc12345'
+password = 'abc12345'
